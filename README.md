@@ -2,4 +2,7 @@
 
 ## Zero Hunger
 
-![alt text](https://github.com/kashivapurva/you-N/blob/master/zero-hunger.png "Zero Hunger")
+<p align="center"><img src="zero-hunger.png" width="260"></p>
+<p align="center">
+</p>
+
